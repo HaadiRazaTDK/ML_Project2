@@ -1,0 +1,6 @@
+[ 2024-06-30 04:14:54,832 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-30 04:14:54,866 ] 97 werkzeug - INFO -  * Debugger PIN: 896-250-427
+[ 2024-06-30 04:15:29,791 ] 8 root - INFO - Just testing my second method of logging
+[ 2024-06-30 04:15:29,792 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:15:29] "GET / HTTP/1.1" 200 -
+[ 2024-06-30 04:15:30,493 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:15:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-06-30 04:17:01,062 ] 97 werkzeug - INFO -  * Detected change in 'Z:\\ML_Project2\\src\\utils.py', reloading

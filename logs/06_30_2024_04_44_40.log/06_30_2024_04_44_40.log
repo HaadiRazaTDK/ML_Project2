@@ -1,0 +1,4 @@
+[ 2024-06-30 04:44:40,392 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-30 04:44:40,416 ] 97 werkzeug - INFO -  * Debugger PIN: 896-250-427
+[ 2024-06-30 04:44:41,283 ] 14 root - INFO - Error occurred in python scripts name [Z:\ML_Project2\app.py] line number [11] error message [Just testing my Custom Exceptiom]
+[ 2024-06-30 04:44:41,285 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:44:41] "GET / HTTP/1.1" 200 -

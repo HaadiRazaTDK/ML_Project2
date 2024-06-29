@@ -1,0 +1,14 @@
+[ 2024-06-30 04:43:16,237 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2024-06-30 04:43:16,238 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-06-30 04:43:16,255 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2024-06-30 04:43:16,896 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-06-30 04:43:16,918 ] 97 werkzeug - INFO -  * Debugger PIN: 896-250-427
+[ 2024-06-30 04:43:22,630 ] 11 root - INFO - Just testing my Custom Exceptiom
+[ 2024-06-30 04:43:22,641 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:43:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2024-06-30 04:43:23,327 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:43:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-06-30 04:43:23,710 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:43:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-06-30 04:43:24,155 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:43:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-06-30 04:43:24,660 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Jun/2024 04:43:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-06-30 04:44:38,737 ] 97 werkzeug - INFO -  * Detected change in 'Z:\\ML_Project2\\app.py', reloading
+[ 2024-06-30 04:44:38,909 ] 97 werkzeug - INFO -  * Restarting with stat
