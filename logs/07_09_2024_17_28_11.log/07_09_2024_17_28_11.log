@@ -1,0 +1,16 @@
+[ 2024-07-09 17:28:12,769 ] 30 root - INFO - Data reading from local system
+[ 2024-07-09 17:28:12,928 ] 36 root - INFO - Train-test split completed
+[ 2024-07-09 17:28:13,047 ] 41 root - INFO - Data ingestion completed!
+[ 2024-07-09 17:28:13,142 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,147 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,149 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,152 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,155 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,157 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,159 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,162 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,164 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,166 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,168 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-09 17:28:13,168 ] 58 root - INFO - Error occurred during outlier removal
+[ 2024-07-09 17:28:13,168 ] 105 root - INFO - Error occurred during data transformation
