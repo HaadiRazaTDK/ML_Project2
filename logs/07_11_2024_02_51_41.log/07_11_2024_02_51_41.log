@@ -1,0 +1,33 @@
+[ 2024-07-11 02:51:42,660 ] 31 root - INFO - Data reading from local system
+[ 2024-07-11 02:51:42,815 ] 37 root - INFO - Train-test split completed
+[ 2024-07-11 02:51:42,961 ] 42 root - INFO - Data ingestion completed!
+[ 2024-07-11 02:51:43,048 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,055 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,063 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,069 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,074 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,080 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,084 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,088 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,093 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,099 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,106 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,111 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,114 ] 73 root - INFO - Outliers capped on our train data
+[ 2024-07-11 02:51:43,114 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,117 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,120 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,122 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,124 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,126 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,128 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,130 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,132 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,134 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,136 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,138 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:51:43,141 ] 78 root - INFO - Outliers capped on our test data
+[ 2024-07-11 02:51:43,141 ] 27 root - INFO - Data Transformation Started
+[ 2024-07-11 02:51:43,141 ] 85 root - INFO - Splitting train data into dependent and independent columns started
+[ 2024-07-11 02:51:43,142 ] 89 root - INFO - Splitting test data into dependent and independent columns started
+[ 2024-07-11 02:52:03,252 ] 83 root - INFO - Best model found: RandomForest with an accuracy of 0.7595046082949308.

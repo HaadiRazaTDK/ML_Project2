@@ -1,0 +1,32 @@
+[ 2024-07-11 02:40:17,400 ] 31 root - INFO - Data reading from local system
+[ 2024-07-11 02:40:17,533 ] 37 root - INFO - Train-test split completed
+[ 2024-07-11 02:40:17,649 ] 42 root - INFO - Data ingestion completed!
+[ 2024-07-11 02:40:17,751 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,757 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,760 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,764 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,767 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,769 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,772 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,783 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,785 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,788 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,795 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,799 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,803 ] 73 root - INFO - Outliers capped on our train data
+[ 2024-07-11 02:40:17,803 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,808 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,812 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,816 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,820 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,823 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,826 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,829 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,832 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,835 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,838 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,840 ] 51 root - INFO - Outlier Removal Started
+[ 2024-07-11 02:40:17,842 ] 78 root - INFO - Outliers capped on our test data
+[ 2024-07-11 02:40:17,842 ] 27 root - INFO - Data Transformation Started
+[ 2024-07-11 02:40:17,842 ] 85 root - INFO - Splitting train data into dependent and independent columns started
+[ 2024-07-11 02:40:17,843 ] 89 root - INFO - Splitting test data into dependent and independent columns started
